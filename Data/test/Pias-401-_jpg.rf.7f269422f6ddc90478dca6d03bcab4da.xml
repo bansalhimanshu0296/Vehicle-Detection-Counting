@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Pias-401-_jpg.rf.7f269422f6ddc90478dca6d03bcab4da.jpg</filename>
+	<path>Pias-401-_jpg.rf.7f269422f6ddc90478dca6d03bcab4da.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0 0 0 0 0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>422</xmin>
+			<xmax>641</xmax>
+			<ymin>123</ymin>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0 0 0 0 0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>294</xmin>
+			<xmax>372</xmax>
+			<ymin>237</ymin>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

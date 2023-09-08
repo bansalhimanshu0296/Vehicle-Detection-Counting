@@ -1,0 +1,105 @@
+<annotation>
+	<folder></folder>
+	<filename>Pias-226-_jpg.rf.2aae579345df307975def6a514ff0e69.jpg</filename>
+	<path>Pias-226-_jpg.rf.2aae579345df307975def6a514ff0e69.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0 0 0 0 0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>201</xmax>
+			<ymin>254</ymin>
+			<ymax>638</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0 0 0 0 0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>169</xmin>
+			<xmax>332</xmax>
+			<ymin>297</ymin>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0 0 0 0 0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>407</xmin>
+			<xmax>427</xmax>
+			<ymin>308</ymin>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0 0 0 0 0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>319</xmin>
+			<xmax>402</xmax>
+			<ymin>310</ymin>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0 0 0 0 0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>532</xmin>
+			<xmax>563</xmax>
+			<ymin>279</ymin>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0 0 0 0 0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>574</xmin>
+			<xmax>619</xmax>
+			<ymin>268</ymin>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0 0 0 0 0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>420</xmin>
+			<xmax>455</xmax>
+			<ymin>328</ymin>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

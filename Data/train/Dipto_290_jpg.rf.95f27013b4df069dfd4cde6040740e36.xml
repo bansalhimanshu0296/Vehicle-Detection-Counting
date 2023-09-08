@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Dipto_290_jpg.rf.95f27013b4df069dfd4cde6040740e36.jpg</filename>
+	<path>Dipto_290_jpg.rf.95f27013b4df069dfd4cde6040740e36.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>185</xmin>
+			<xmax>358</xmax>
+			<ymin>278</ymin>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>

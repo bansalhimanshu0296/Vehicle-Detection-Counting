@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Pias-238-_jpg.rf.8ee0f07435a168b081b0d05857b05a5f.jpg</filename>
+	<path>Pias-238-_jpg.rf.8ee0f07435a168b081b0d05857b05a5f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0 0 0 0 0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>97</xmax>
+			<ymin>355</ymin>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

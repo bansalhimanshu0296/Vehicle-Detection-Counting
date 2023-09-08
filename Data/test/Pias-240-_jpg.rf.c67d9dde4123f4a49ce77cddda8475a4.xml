@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>Pias-240-_jpg.rf.c67d9dde4123f4a49ce77cddda8475a4.jpg</filename>
+	<path>Pias-240-_jpg.rf.c67d9dde4123f4a49ce77cddda8475a4.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0 0 0 0 0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>212</xmax>
+			<ymin>388</ymin>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0 0 0 0 0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>167</xmin>
+			<xmax>283</xmax>
+			<ymin>380</ymin>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>0 0 0 0 0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>395</xmin>
+			<xmax>460</xmax>
+			<ymin>395</ymin>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

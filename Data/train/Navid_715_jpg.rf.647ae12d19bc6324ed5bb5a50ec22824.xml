@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Navid_715_jpg.rf.647ae12d19bc6324ed5bb5a50ec22824.jpg</filename>
+	<path>Navid_715_jpg.rf.647ae12d19bc6324ed5bb5a50ec22824.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>215</xmin>
+			<xmax>228</xmax>
+			<ymin>319</ymin>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>
